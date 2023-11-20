@@ -6,5 +6,4 @@
 https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security?q=&p=3
 
 <p>CA Audit Link<br>
-
 https://app.solidproof.io/projects/squid-game?audit_id=796
